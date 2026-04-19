@@ -7,16 +7,19 @@
 
 - 🌱 I’m currently learning: 
   - Machine Learning .
-  - Design Patterns: Mastering best practices for software design.
+  - Bioinformatics
 
 - 💼 Professional Experience: 
   - Experience with [technologies you are familiar with] and [key projects you've worked on].
 
-- 🛠 Technologies & Tools: 
-  - Programming Languages: Python, R etc.
-  - Databases: MongoDB, PostgreSQL, MySQL, Cassandra, Redis etc.
-  - Frameworks: TensorFlow, Keras, React, Flask, NextJS etc.
-  - Tools: Git, Docker, Vim, Postman, Jira, Figma and AWS services etc.
+- 🛠 Technologies & Tools:
+  - Programming Languages: Python, R, Bash
+  - Databases: MySQL, PostgreSQL, MongoDB
+  - Bioinformatics Tools: BLAST, GATK, BWA, HISAT2, SAMtools, DESeq2, Bioconductor
+  - Frameworks & Libraries: Biopython, Bioconductor, Pandas, NumPy, Scikit-learn, ggplot2
+  - File Formats: FASTA, FASTQ, VCF, BAM/SAM, BED, GFF/GTF
+  - Tools: Git, Docker, Jupyter, Galaxy, Snakemake, Nextflow
+  - Cloud & HPC: AWS, SLURM, Linux/HPC environments
 
 <!--- 📈 Projects I’m proud of:
   - [Project Name](link): Brief description of the project and what technologies were used.
