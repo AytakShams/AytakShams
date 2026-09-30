@@ -3,31 +3,31 @@
 
 - 🔭 I’m currently working on: 
   - Bioinformatics.
-  - AI and medicine
+  - AI and medicine.
 
 - 🌱 I’m currently learning: 
   - Machine Learning .
   - Bioinformatics
   - Computational Neuroscience
 
+<!--
 - 💼 Professional Experience: 
-  - Experience with [technologies you are familiar with] and [key projects you've worked on].
-
+  - Experience with [technologies you are familiar with] and [key projects you've worked on]. -->
 - 🛠 Technologies & Tools:
   - Programming Languages: Python, R, Bash
-  - Databases: MySQL, PostgreSQL, MongoDB
   - Bioinformatics Tools: BLAST, GATK, BWA, HISAT2, SAMtools, DESeq2, Bioconductor
-  - Frameworks & Libraries: Biopython, Bioconductor, Pandas, NumPy, Scikit-learn, ggplot2
+  - Frameworks & Libraries: Biopython, Bioconductor, Pandas, NumPy, Scikit-learn, NEURON
   - File Formats: FASTA, FASTQ, VCF, BAM/SAM, BED, GFF/GTF
-  - Tools: Git, Docker, Jupyter, Galaxy, Snakemake, Nextflow
+  - Tools: Git, Docker, Jupyter, Galaxy, Snakemake, Nextflow, Coding Agents
   - Cloud & HPC: AWS, SLURM, Linux/HPC environments
+  - Databases: MySQL, PostgreSQL, MongoDB
 
 <!--- 📈 Projects I’m proud of:
   - [Project Name](link): Brief description of the project and what technologies were used.
   - [Another Project Name](link): Brief description of this project and its impact.-->
 - 🌐 Connect with me: 
   - LinkedIn - https://www.linkedin.com/in/aytak-shamsy Professional network
-  - Website - https://www.aytakshams.com.tr/
+  - Website - https://www.aytakshams.com.tr/ - OpenSoon
 
 - 📫 How to reach me: 
   - Email me aytakshamy1385@gmail.com
@@ -50,9 +50,10 @@
 <!--START_SECTİON:waka-->
 <!--END_SECTİON:waka-->
 
+<!--
 ## Stats
 !Aytak's GitHub stats)
-<!--
+
 ## Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AytakShams&theme=default&hide_border=true&bg_color=151515" alt="AytakShams's GitHub Stats" />
 
