@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning: 
   - Machine Learning .
   - Bioinformatics
+  - Computational Neuroscience
 
 - 💼 Professional Experience: 
   - Experience with [technologies you are familiar with] and [key projects you've worked on].
